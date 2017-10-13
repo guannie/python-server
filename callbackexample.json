@@ -1,0 +1,16 @@
+{	'receiver_id': '35FBB7CE51964EF299E4BAF156E8495E', 
+	'transmitter_name': 'Geo Dev', 
+	'transmitter_id': 'XZ7S-F8AYS', 
+	'triggering_event': 'Arrived', 
+	'dwell_time': '8', 
+	'signal_strength': '-75', 
+    'time': '2017-10-13 09:08:16', 
+    'latitude': '49.418786', 
+    'longitude': '8.675434', 
+    'location_accuracy': '65.000000', 
+    'location_fix_time': '2017-10-13 09:07:02', 
+    'battery_level': '3', 
+    'temperature': '71', 
+    'receiver_owner_organization': '9274DC1F-EE41-4664-877F-8A55CC6C8D58', 
+    'transmitter_owner_organization': '9274DC1F-EE41-4664-877F-8A55CC6C8D58'
+}
